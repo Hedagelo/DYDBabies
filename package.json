@@ -1,0 +1,22 @@
+{
+  "name": "nuevo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedagelo/DYDBabies.git"
+  },
+  "author": "david gelvez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hedagelo/DYDBabies/issues"
+  },
+  "homepage": "https://github.com/Hedagelo/DYDBabies#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
